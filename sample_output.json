@@ -1,0 +1,24 @@
+{
+    "name": "Riya Verma",
+    "email": "riya.verma@example.com",
+    "phone": "+91 90000 00000",
+    "education": [
+        "B.Com (Pursuing), Delhi University, 2027",
+        "Senior Secondary (XII), CBSE, Commerce, 2024, Sample Public School, Delhi",
+        "Secondary (X), CBSE, 2022, Sample Public School, Delhi"
+    ],
+    "skill": [
+        "Data Entry",
+        "Microsoft Excel",
+        "Google Sheets",
+        "Canva",
+        "Content Writing",
+        "Social Media Management",
+        "Email Writing",
+        "Customer Support",
+        "Basic Python",
+        "ChatGPT",
+        "Typing (45 WPM)",
+        "Time Management"
+    ]
+}
